@@ -1,6 +1,6 @@
-// Usage: (Windows) OneTimePassword password or (Linux, *BSD, MacOS) ./OneTimePassword password
+// Usage: (Windows) OneTimePassword password or (MacOS, Linux, *BSD) ./OneTimePassword password
 // Windows is compiled by DevCPP on X86_32/X86_64 platforms.
-// Linux, BSD, MacOS is compiled by gcc on X86_32/X86_64 platforms.
+// MacOS, Linux, *BSD is compiled by gcc on X86_32/X86_64 platforms.
 // Talk is SO EASY, show you my GOD.
 // Simple is beautiful.
 
